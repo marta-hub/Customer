@@ -1,4 +1,4 @@
-
+Wellcome
 <h1 align="center">Hi 👋, I'm Marta Guesh</h1>
 <p align="center"> <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/open-uri20150609-11-oldodq-536x402.png" /> </p>
 <h3 align="center">💡 I enjoy learning about new technologies, creating software, and finding rapid fixes. I'm on track to learn more about cloud architecture, Erp Software Development and artificial intelligence.</h3>
